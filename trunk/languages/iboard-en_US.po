@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iboard-en_US\n"
+"POT-Creation-Date: 2014-12-31 20:47+0900\n"
+"PO-Revision-Date: 2015-01-02 15:34+0900\n"
+"Last-Translator: \n"
+"Language-Team: IPeople\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "제목"
+msgstr "Title"
+
+msgid "작성자"
+msgstr "Author"
+
+msgid "내용"
+msgstr "Content"
+
+msgid "작성일"
+msgstr "Date"
+
+msgid "조회"
+msgstr "Views"
+
+msgid "답글"
+msgstr "Reply"
+
+msgid "이전글"
+msgstr "Prev"
+
+msgid "다음글"
+msgstr "Next"
+
+msgid "이전"
+msgstr "Prev"
+
+msgid "다음"
+msgstr "Next"
+
+msgid "글쓰기"
+msgstr "Write"
+
+msgid "수정"
+msgstr "Edit"
+
+msgid "삭제"
+msgstr "Delete"
+
+msgid "취소"
+msgstr "Cancel"
+
+msgid "확인"
+msgstr "Confirm"
+
+msgid "선택사항"
+msgstr "Optional"
+
+msgid "파일첨부"
+msgstr "File Upload"
+
+msgid "첨부파일"
+msgstr "Attachments"
+
+msgid "파일 업로드"
+msgstr "File Upload"
+
+msgid "파일은 %s 개 까지 업로드 할수 있습니다."
+msgstr "Files can be uploaded to %s"
+
+msgid "미디어 업로드"
+msgstr "Media Upload"
+
+msgid "비밀글"
+msgstr "Secret"
+
+msgid "비밀번호"
+msgstr "Password"
+
+msgid "다운로드"
+msgstr "Download"
+
+msgid "뒤로"
+msgstr "Back"
+
+msgid "비밀번호를 입력해주세요."
+msgstr "Please enter your password."
+
+msgid "올바른 비밀번호를 입력해주세요."
+msgstr "Please enter the correct password."
+
+msgid "잘못된 접근입니다."
+msgstr "The wrong approach."
+
+msgid "다음글이 없습니다."
+msgstr "Then no articles."
+
+msgid "이전글이 없습니다."
+msgstr "No previous article."
+
+msgid "존재하지 않는 게시물입니다."
+msgstr "The post does not exist."
+
+msgid "읽기 권한이 없습니다."
+msgstr "You do not have read permissions."

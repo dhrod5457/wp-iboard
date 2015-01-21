@@ -1,0 +1,151 @@
+.iboard fieldset {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+.iboard .iboard_text_over {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    word-wrap: normal;
+}
+
+.iboard legend, .iboard caption {
+    display: none;
+}
+
+#iboardUploadForm {
+    display: none;
+}
+
+.validateForm label.error {
+    color: red;
+    display: block;
+    margin: 10px 0;
+}
+
+.iboardRead .iboard_content {
+    float: left;
+    width: 100%;
+}
+
+.iboardRead .iboard_content * {
+    margin: 0;
+    padding: 0;
+    line-height: 170%;
+    font-size: inherit;
+    border: none;
+    max-width: 100% !important;
+}
+
+.iboardRead .iboard_navigation {
+    float: left;
+    width: 100%;
+}
+
+.iboardRead .alignleft {
+    float: left;
+    margin-right: 10px;
+}
+
+.iboardRead .aligncenter {
+    margin: 0 auto;
+    display: block;
+}
+
+.iboardRead .alignright {
+    float: right;
+    margin-left: 10px;
+}
+
+.iboardRead .iboard_content p {
+    padding: 5px 0;
+}
+
+.iboardRead .iboard_content h1,
+.iboardRead .iboard_content h2,
+.iboardRead .iboard_content h3,
+.iboardRead .iboard_content h4,
+.iboardRead .iboard_content h5,
+.iboardRead .iboard_content h6 {
+    display: block;
+    font-weight: bold;
+}
+
+.iboardRead .iboard_content h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+.iboardRead .iboard_content h2 {
+    font-size: 1.5em;
+    margin: 0.83em 0;
+}
+
+.iboardRead .iboard_content h3 {
+    font-size: 1.17em;
+    margin: 1em 0;
+}
+
+.iboardRead .iboard_content h4 {
+    margin: 1.33em 0;
+    font-size: 1em;
+}
+
+.iboardRead .iboard_content h5 {
+    font-size: 0.83em;
+    margin: 1.67em 0;
+}
+
+.iboardRead .iboard_content h6 {
+    font-size: 0.67em;
+    margin: 2.33em 0;
+}
+
+.iboardRead .iboard_content ul,
+.iboardRead .iboard_content ol,
+.iboardRead .iboard_content dl {
+    padding-left: 40px;
+}
+
+.iboardRead .iboard_content table {
+    border-collapse: collapse;
+}
+
+.iboard .iboard_subject_category {
+    font-weight: bold;
+    margin-right: 3px;
+}
+
+.iboard .iboard_subject_has_file {
+    display: none;
+}
+
+.iboardList .iboard_subject_has_file {
+    width: 17px;
+    height: 19px;
+    background: url(../images/down.png) center top no-repeat;
+    text-indent: -9999px;
+    display: inline-block;
+    margin: 0 2px;
+    position: relative;
+    top: -3px;
+}
+
+.iboardList .iboard_reply {
+    padding-left: 12px;
+    margin-right: 5px;
+    background: url(../images/comment.png) right center no-repeat;
+    height: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.iboardList .iboard_reply .iboard_re {
+    margin-left: 10px;
+    display: inline-block;
+    text-indent: -9999px;
+    width: 2px;
+    height: 2px;
+}
